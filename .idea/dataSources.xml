@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="sys" uuid="96ee2744-0684-4fa7-ad4b-a8c70301ea9d">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/shequ-sys</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="product" uuid="e43a6ec9-3e18-409c-9af7-90e7d740a595">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/shequ-product</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="activity" uuid="b21d6c1d-0f03-47a8-b158-f2dffad040ce">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/shequ-activity</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="order" uuid="3bfaed13-e873-491b-8404-60cdebffc7db">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/shequ-order</jdbc-url>
+    </data-source>
+  </component>
+</project>

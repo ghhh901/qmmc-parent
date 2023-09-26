@@ -1,0 +1,4 @@
+com\ghhh\qmmc\common\config\MQProducerAckConfig.class
+com\ghhh\qmmc\common\service\RabbitService.class
+com\ghhh\qmmc\common\constant\MqConst.class
+com\ghhh\qmmc\common\config\MQConfig.class

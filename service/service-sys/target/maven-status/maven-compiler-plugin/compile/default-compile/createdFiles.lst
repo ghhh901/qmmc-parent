@@ -1,0 +1,14 @@
+com\ghhh\qmmc\sys\service\impl\WareServiceImpl.class
+com\ghhh\qmmc\sys\service\RegionService.class
+com\ghhh\qmmc\product\service\AttrService.class
+com\ghhh\qmmc\sys\controller\RegionController.class
+com\ghhh\qmmc\sys\mapper\WareMapper.class
+com\ghhh\qmmc\sys\controller\WareController.class
+com\ghhh\qmmc\sys\service\WareService.class
+com\ghhh\qmmc\sys\service\impl\RegionServiceImpl.class
+com\ghhh\qmmc\sys\service\impl\RegionWareServiceImpl.class
+com\ghhh\qmmc\sys\controller\RegionWareController.class
+com\ghhh\qmmc\sys\service\RegionWareService.class
+com\ghhh\qmmc\sys\mapper\RegionWareMapper.class
+com\ghhh\qmmc\ServiceSysApplication.class
+com\ghhh\qmmc\sys\mapper\RegionMapper.class

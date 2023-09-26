@@ -1,0 +1,14 @@
+com\ghhh\qmmc\activity\mapper\ActivityRuleMapper.class
+com\ghhh\qmmc\activity\service\CouponInfoService.class
+com\ghhh\qmmc\activity\controller\CouponInfoController.class
+com\ghhh\qmmc\activity\service\impl\CouponInfoServiceImpl.class
+com\ghhh\qmmc\ServiceActivityApplication.class
+com\ghhh\qmmc\activity\mapper\CouponUseMapper.class
+com\ghhh\qmmc\activity\mapper\CouponRangeMapper.class
+com\ghhh\qmmc\activity\mapper\ActivityInfoMapper.class
+com\ghhh\qmmc\activity\service\impl\ActivityInfoServiceImpl.class
+com\ghhh\qmmc\activity\mapper\ActivitySkuMapper.class
+com\ghhh\qmmc\activity\mapper\CouponInfoMapper.class
+com\ghhh\qmmc\activity\controller\ActivityApiController.class
+com\ghhh\qmmc\activity\service\ActivityInfoService.class
+com\ghhh\qmmc\activity\controller\ActivityInfoController.class

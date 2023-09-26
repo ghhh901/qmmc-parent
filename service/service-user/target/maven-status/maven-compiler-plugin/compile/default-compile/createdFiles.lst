@@ -1,0 +1,12 @@
+com\ghhh\qmmc\user\mapper\UserDeliveryMapper.class
+com\ghhh\qmmc\user\service\impl\UserServiceImpl.class
+com\ghhh\qmmc\user\mapper\UserMapper.class
+com\ghhh\qmmc\user\mapper\LeaderMapper.class
+com\ghhh\qmmc\user\utils\ConstantPropertiesUtil.class
+com\ghhh\qmmc\ServiceUserApplication.class
+com\ghhh\qmmc\user\utils\HttpClientUtils$2.class
+com\ghhh\qmmc\user\controller\WeixinApiController.class
+com\ghhh\qmmc\user\utils\HttpClientUtils$1.class
+com\ghhh\qmmc\user\api\LeaderApiController.class
+com\ghhh\qmmc\user\service\UserService.class
+com\ghhh\qmmc\user\utils\HttpClientUtils.class

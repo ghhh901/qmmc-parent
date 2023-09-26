@@ -1,0 +1,6 @@
+com\ghhh\qmmc\search\service\impl\SkuApiServiceImpl.class
+com\ghhh\qmmc\ServiceSearchApplication.class
+com\ghhh\qmmc\search\controller\SkuApiController.class
+com\ghhh\qmmc\search\service\SkuApiService.class
+com\ghhh\qmmc\search\repository\SkuRepository.class
+com\ghhh\qmmc\search\receiver\SkuReceiver.class
