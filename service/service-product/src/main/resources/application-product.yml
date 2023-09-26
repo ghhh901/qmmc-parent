@@ -52,6 +52,6 @@ spring:
 
 aliyun:
   endpoint: oss-cn-beijing.aliyuncs.com
-  keyid: LTAI5tGhvxkbQNMmPm12XwTQ
-  keysecret: yO7Lk0rvIsOZ1WvG1T5OtKFM5orKVD
+  keyid: xxx
+  keysecret: xxxxx
   bucketname: edu-000901
